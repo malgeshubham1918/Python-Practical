@@ -3,7 +3,7 @@
 
 #Q.11 Python Program to demonstrate use of list and various functions of it
 
-print("Name: Aman Gilani \nEnrollment: 92600565017")
+print("Name: Malge Shubham \nEnrollment: 92600565026")
 
 numbers = [10, 20, 30, 40, 50]
 
